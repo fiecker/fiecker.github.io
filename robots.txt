@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fiecker.github.io/sitemap.fiecker.gz
+Sitemap: https://fiecker.github.io/app/sitemap.fiecker.gz
+Sitemap: https://fiecker.github.io/assets/sitemap.fiecker.gz
+Sitemap: https://fiecker.github.io/css/sitemap.fiecker.gz
+Sitemap: https://fiecker.github.io/data/sitemap.fiecker.gz
+Sitemap: https://fiecker.github.io/includes/sitemap.fiecker.gz
+Sitemap: https://fiecker.github.io/item/sitemap.fiecker.gz
+Sitemap: https://fiecker.github.io/src/sitemap.fiecker.gz
